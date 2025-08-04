@@ -62,7 +62,7 @@ A luxury e-commerce website for women's fashion and accessories, featuring a mod
 *Stunning hero section featuring "BELLADONNA by FARIN" with elegant purple gradient background and smooth animations*
 
 ### �️ Product Collection Showcase
-![Product Collection](https://github.com/3a7anton/belladona-modern-ecommerce/blob/main/public/screenshots/product page.png)
+![Product Collection](https://github.com/3a7anton/belladona-modern-ecommerce/blob/main/public/screenshots/productpage.png)
 *Interactive product carousel showcasing luxury handbags with category filtering and smooth navigation*
 
 ## 🚀 Getting Started
