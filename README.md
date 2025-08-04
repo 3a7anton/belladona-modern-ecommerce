@@ -1,6 +1,12 @@
 # 🌸 Belladonna by Farin - Modern E-commerce Website
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-purple?style=for-the-badge)](https://belladonnabyfarin.netlify.app/)
+[![Live De### 🏠 Homepage
+![Homepage](https://github.com/3a7anton/belladona-modern-ecommerce/blob/main/public/screenshots/home.png)
+*Stunning hero section featuring "BELLADONNA by FARIN" with elegant purple gradient background and smooth animations*
+
+### 🛍️ Product Page
+![Product Page](https://github.com/3a7anton/belladona-modern-ecommerce/blob/main/public/screenshots/product%20page.png)
+*Interactive product showcase with luxury handbags collection, category filtering, and smooth carousel navigation*ps://img.shields.io/badge/Live%20Demo-Visit%20Site-purple?style=for-the-badge)](https://belladonnabyfarin.netlify.app/)
 [![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-7.0-green?style=for-the-badge&logo=vite)](https://vitejs.dev/)
