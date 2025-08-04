@@ -62,21 +62,13 @@ A luxury e-commerce website for women's fashion and accessories, featuring a mod
 
 ## 📸 Screenshots
 
-### 🏠 Homepage
-![Homepage](https://github.com/3a7anton/belladona-modern-ecommerce/blob/main/public/img/premium%20purse/476211247_479415401887020_2184385406340683444_n.jpg)
-*Elegant hero section with smooth animations and luxury branding*
+### 🏠 Homepage Hero Section
+![Homepage Hero](https://github.com/3a7anton/belladona-modern-ecommerce/blob/main/public/screenshots/homepage-hero.png)
+*Stunning hero section featuring "BELLADONNA by FARIN" with elegant purple gradient background and smooth animations*
 
-### 🛍️ Product Catalog
-![Product Catalog](https://github.com/3a7anton/belladona-modern-ecommerce/blob/main/public/img/premium%20purse/476128949_478758638619363_1814056878435439930_n.jpg)
-*Interactive product carousel with category filtering*
-
-### 💍 Jewelry Collection
-![Jewelry Collection](https://github.com/3a7anton/belladona-modern-ecommerce/blob/main/public/img/jewellry/472849920_461536917008202_880367910907139364_n.jpg)
-*Curated jewelry collection with detailed product views*
-
-### 👂 Earrings Collection
-![Earrings Collection](https://github.com/3a7anton/belladona-modern-ecommerce/blob/main/public/img/Earings/473079562_461559570339270_7826771486580445992_n.jpg)
-*Elegant earring designs with high-quality product photography*
+### �️ Product Collection Showcase
+![Product Collection](https://github.com/3a7anton/belladona-modern-ecommerce/blob/main/public/screenshots/product-collection.png)
+*Interactive product carousel showcasing luxury handbags with category filtering and smooth navigation*
 
 ## 🚀 Getting Started
 
