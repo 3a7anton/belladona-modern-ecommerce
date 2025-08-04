@@ -1,0 +1,10 @@
+<!-- Placeholder for logo.jpg -->
+<svg width="150" height="60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="150" height="60" fill="#4B0082"/>
+  <text x="75" y="35" font-family="Arial, sans-serif" font-size="14" font-weight="bold" fill="white" text-anchor="middle">
+    Belladonna
+  </text>
+  <text x="75" y="50" font-family="Arial, sans-serif" font-size="10" fill="#DDA0DD" text-anchor="middle">
+    by Farin
+  </text>
+</svg>
